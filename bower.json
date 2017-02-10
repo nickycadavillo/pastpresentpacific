@@ -1,0 +1,23 @@
+{
+  "name": "pastpresentpacific",
+  "homepage": "https://github.com/nickycadavillo/pastpresentpacific",
+  "authors": [
+    "Nicky Cadavillo <nicoleacadavillo@gmail.com>"
+  ],
+  "description": "personal blog",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7",
+    "normalize-css": "^5.0.0"
+  }
+}
